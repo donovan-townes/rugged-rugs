@@ -43,3 +43,20 @@ Launch a single-page, fast-loading marketing site that converts visitors into le
 ```bash
 pnpm install
 pnpm dev      # localhost:3000
+```
+## 7. Deployment
+Will be deployed via Vercel
+https://rugged-rugs.vercel.app
+
+
+## 8. Timeline
+| Week | Milestone                               |
+| ---- | --------------------------------------- |
+| 0    | Repo + this README, live empty page     |
+| 1    | Hero + nav deployed                     |
+| 2    | Value props + footer, ≥90 Lighthouse    |
+| 3    | Contact form wired & tested             |
+| 4    | Accessibility polish, blog post wrap-up |
+
+## 9. License
+MIT ©️ 2025 Donovan Townes
